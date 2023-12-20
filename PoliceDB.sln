@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceDB", "PoliceDB.csproj", "{55BB8B90-6B5E-40BB-B89F-D3717610779E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55BB8B90-6B5E-40BB-B89F-D3717610779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BB8B90-6B5E-40BB-B89F-D3717610779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BB8B90-6B5E-40BB-B89F-D3717610779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BB8B90-6B5E-40BB-B89F-D3717610779E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E29C51-73FE-433D-AFC7-237DA1614CDB}
+	EndGlobalSection
+EndGlobal
